@@ -13,6 +13,8 @@ Azure Container Registry tiers:
 
 Use Azure Container Registry Tasks (ACR Tasks) to streamline building, testing, pushing, and deploying images in Azure. 
 
+Script to run container image using Azure Container Registry Tasks: [Link](../Container-registry-tasks.sh)
+
 ## Implement Azure App Service Web Apps
 
 ## Implement Azure Functions
